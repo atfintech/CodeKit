@@ -1,2 +1,2 @@
-# FinTechToGo
-The fastest way to stay up to date on FinTech
+# CodeKit
+A starting point for my websites w/ Jekyll, jQuery, Bourbon, Neat, &amp; SASS
