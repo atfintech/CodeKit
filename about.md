@@ -2,7 +2,7 @@
 title: About
 ---
 
-Fintech is all around us and growing. If you're interested in this industry, FinTech to Go is the fastest way for you to access the best content quickly.
+Fintech is all around us and growing. If you're interested in this industry, FinTech Band is the fastest way for you to access the best content quickly.
 
 Sources 200K, then individually curated
 

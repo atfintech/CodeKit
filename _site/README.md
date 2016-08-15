@@ -1,2 +1,2 @@
-# CodeKit
-A starting point for my websites w/ Jekyll, jQuery, Bourbon, Neat, &amp; SASS
+# Fintech Band
+The best way to follow the top people in Fintech

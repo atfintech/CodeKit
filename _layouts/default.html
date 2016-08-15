@@ -4,17 +4,7 @@
     {% include meta.html %}
   </head>
   <body>
-    <div id="wrapper">
-      {% include footer.html %}
-      <div class="main-container">
-        <div class="fixer-container">
-          {% include newsletter.html %}
-            {{ content }}
-          {% include sponsor.html %}
-        </div>
-      </div>
-      {% include header.html %}
-    </div>
+    {{ content }}
     {% include scripts.html %}
   </body>
 </html>
